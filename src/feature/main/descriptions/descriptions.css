@@ -1,0 +1,23 @@
+.frame-descriptions img{
+    width: 200px;
+    max-width: 100%;
+}
+
+.right{
+    text-align: right;
+}
+
+.title-descriptions{
+    font-size: medium;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.text-description{
+    font-size: small;
+}
+
+.dir-left{
+    direction: ltr;
+}
+

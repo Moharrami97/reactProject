@@ -1,0 +1,92 @@
+.travel-selection {
+    margin-top: 3px;
+    padding: 20px;
+    border-radius: 13px;
+    padding-inline: 15px;
+    box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.5); 
+}
+
+.travel-selection div{
+    font-size: small;
+}
+
+.line-heigh{
+    line-height: 34px;
+    background-color: #eee;
+    border-radius: 5px;
+    max-height: 52px;
+    min-height: 52px;
+    border: 1px solid #bbb;
+}
+
+.button{
+    border: none;
+    outline: none;
+    color: black;
+}
+
+.line-heigh input{
+    width: 120px;
+    height: 20px;
+    border: none;
+    background-color: #eee;
+    outline: none;
+}
+
+.number{
+    border: 1px solid #bbb;
+    background-color: #eee;
+    border-radius: 5px;
+    max-height: 52px;
+    min-height: 52px;
+    outline: none;
+    color:black
+}
+
+.search{
+    background-color: rgb(54, 179, 54);
+    color:white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    max-height: 52px;
+    min-height: 52px;
+}
+
+.right{
+    text-align: right !important; 
+}
+
+.disabledbutton {
+    pointer-events: none;
+    opacity: 0.4;
+}
+
+.DatePicker input{
+    font-size:  small;
+    text-align: right;
+    
+}
+
+.border-right .DatePicker{
+    border-right: #bbb 1px solid;
+}
+
+.DatePicker div{
+    font-size: x-small;
+}
+
+.select label{
+    color: #aaa;
+    font-family: inherit;
+    font-size: small;
+}
+
+.select div:first-child{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+

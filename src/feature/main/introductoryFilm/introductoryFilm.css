@@ -1,0 +1,27 @@
+.videoCover img{
+    width: 580px;
+    max-width: 100%;
+}
+
+.right{
+    text-align: right;
+    font-size: medium
+}
+
+.videoCover .row{
+    background-color: white;
+    border-radius: 9px;
+}
+
+.film{
+    position:relative;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.film img:last-child{
+    position: absolute;
+    width: 65px;
+}

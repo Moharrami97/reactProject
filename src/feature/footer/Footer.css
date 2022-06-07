@@ -1,0 +1,75 @@
+h4{
+    font-weight: bold;
+    line-height: 2;
+    font-size: 15px;
+}
+
+ul{
+    padding-inline-start: 18px;
+    font-size: 13px;
+}
+
+li{
+    list-style-position: inside;
+    
+}
+
+a{
+    margin-top: 5px;
+}
+
+.background-footer{
+    background-color: rgb(168, 167, 167);
+    padding-right: 100px;
+    text-align: right;
+}
+
+.logo{
+    width: 70px;
+}
+
+.font-size{
+    font-size: smaller;
+    color: white;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.gray{
+    background-color: rgb(82, 81, 81);
+}
+
+.circle{
+    width: 35px;
+    border-radius: 50%;
+    background-color: white
+}
+
+.gray-color{
+    color: rgb(82, 81, 81);
+}
+
+.width-sabt{
+    width: 110px;
+    margin-right: 70px;
+}
+
+.dis button{
+    border: none;
+    display: inline-block;
+    width: 10px !important;
+    background-color: black;
+    font-size: xx-small;
+    font-weight: bold;
+}
+
+.dis img{
+    width: 20px;
+}
+
+.email span{
+    font-size: small;
+    margin-bottom: 6px;
+}
